@@ -1,10 +1,7 @@
-# NeetCode Solutions — @1suyogbhat
-
----
 
 ## What is this?
 
-Coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+Collection of coding problems done for fun and practice. Problems found from LeetCode/NeetCode.
 
 --
 
